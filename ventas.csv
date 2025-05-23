@@ -1,0 +1,301 @@
+id_venta,id_cliente,Monto total,calificación experiencia,ciudad,categoría productos,tipo de entrega
+1,54,,5,Viña del Mar,Alimentos,despacho
+2,138,287340.0,7,Santiago,Juguetes,retiro en tienda
+3,42,80323.0,4,Rancagua,,despacho
+4,64,161334.0,2,Valparaíso,Electrodomésticos,despacho
+5,126,149953.0,2,Rancagua,,despacho
+6,21,221199.0,7,Viña del Mar,Alimentos,retiro en tienda
+7,35,,6,Valparaíso,Ropa,despacho
+8,30,212352.0,3,Rancagua,Mascotas,retiro en tienda
+9,57,321702.0,2,Viña del Mar,Calzado,retiro en tienda
+10,47,84578.0,1,Santiago,Calzado,despacho
+11,19,193279.0,5,Viña del Mar,Ropa,retiro en tienda
+12,114,133661.0,4,Valparaíso,Ropa,despacho
+13,8,209812.0,6,Concepción,Alimentos,retiro en tienda
+14,26,181340.0,7,Santiago,Juguetes,retiro en tienda
+15,113,135096.0,5,Rancagua,,despacho
+16,71,214151.0,3,Valparaíso,Calzado,despacho
+17,30,306304.0,6,Concepción,Calzado,despacho
+18,135,166637.0,4,Viña del Mar,Ropa,despacho
+19,67,230383.0,4,Concepción,Juguetes,retiro en tienda
+20,65,89471.0,7,Valparaíso,Calzado,retiro en tienda
+21,36,113049.0,1,Valparaíso,Electrodomésticos,retiro en tienda
+22,25,213068.0,7,Concepción,Ropa,despacho
+23,37,283888.0,3,Viña del Mar,Electrodomésticos,retiro en tienda
+24,1,204893.0,6,Concepción,Juguetes,despacho
+25,143,158086.0,6,Valparaíso,,retiro en tienda
+26,37,,2,Valparaíso,Mascotas,despacho
+27,141,92471.0,1,Rancagua,Calzado,retiro en tienda
+28,136,222316.0,1,Rancagua,Juguetes,retiro en tienda
+29,133,241763.0,6,Santiago,Calzado,despacho
+30,128,148354.0,6,Valparaíso,Calzado,retiro en tienda
+31,127,147097.0,5,Rancagua,Alimentos,despacho
+32,1,198611.0,5,Concepción,Calzado,retiro en tienda
+33,35,149430.0,5,Viña del Mar,Calzado,retiro en tienda
+34,104,175371.0,1,Concepción,Electrodomésticos,despacho
+35,23,,2,Viña del Mar,Mascotas,despacho
+36,9,162708.0,4,Rancagua,Electrodomésticos,retiro en tienda
+37,34,154916.0,5,Santiago,Electrodomésticos,retiro en tienda
+38,128,134672.0,2,Concepción,Ropa,retiro en tienda
+39,4,232093.0,7,Concepción,Alimentos,retiro en tienda
+40,102,167314.0,3,Concepción,,retiro en tienda
+41,75,134544.0,5,Viña del Mar,Juguetes,retiro en tienda
+42,99,272491.0,7,Rancagua,Juguetes,despacho
+43,72,279372.0,4,Concepción,Calzado,despacho
+44,3,137970.0,3,Concepción,Ropa,despacho
+45,142,49342.0,3,Santiago,Alimentos,retiro en tienda
+46,34,250526.0,4,Santiago,Alimentos,retiro en tienda
+47,45,132076.0,5,Rancagua,Calzado,retiro en tienda
+48,61,235344.0,1,Rancagua,Juguetes,despacho
+49,83,42093.0,4,Valparaíso,Mascotas,despacho
+50,123,242482.0,4,Santiago,Ropa,retiro en tienda
+51,102,95218.0,4,Valparaíso,Calzado,retiro en tienda
+52,16,,3,Viña del Mar,Ropa,despacho
+53,66,180999.0,2,Valparaíso,Juguetes,despacho
+54,145,113224.0,7,Concepción,Juguetes,despacho
+55,119,151507.0,1,Valparaíso,Mascotas,retiro en tienda
+56,124,228042.0,5,Rancagua,Mascotas,retiro en tienda
+57,144,187413.0,5,Viña del Mar,Alimentos,retiro en tienda
+58,102,220909.0,7,Concepción,Ropa,despacho
+59,66,318351.0,2,Valparaíso,Ropa,despacho
+60,13,70503.0,4,Viña del Mar,Juguetes,retiro en tienda
+61,111,293205.0,1,Viña del Mar,Alimentos,retiro en tienda
+62,34,187305.0,5,Concepción,Calzado,despacho
+63,39,117085.0,7,Valparaíso,Ropa,retiro en tienda
+64,136,86878.0,6,Viña del Mar,Alimentos,despacho
+65,120,166762.0,7,Viña del Mar,Alimentos,despacho
+66,126,244516.0,5,Santiago,,retiro en tienda
+67,55,171072.0,4,Viña del Mar,,despacho
+68,27,285781.0,6,Santiago,Mascotas,retiro en tienda
+69,118,,2,Valparaíso,Mascotas,despacho
+70,53,179154.0,1,Valparaíso,Electrodomésticos,despacho
+71,39,92332.0,2,Valparaíso,Juguetes,retiro en tienda
+72,65,205454.0,2,Rancagua,Calzado,despacho
+73,145,242082.0,7,Valparaíso,Electrodomésticos,retiro en tienda
+74,13,150547.0,1,Viña del Mar,Mascotas,retiro en tienda
+75,21,-2295.0,1,Concepción,Electrodomésticos,despacho
+76,147,193926.0,5,Santiago,,retiro en tienda
+77,53,210572.0,5,Rancagua,Juguetes,retiro en tienda
+78,19,,1,Valparaíso,Alimentos,retiro en tienda
+79,57,266505.0,6,Valparaíso,Ropa,retiro en tienda
+80,25,105026.0,3,Concepción,Alimentos,retiro en tienda
+81,31,227615.0,5,Concepción,Juguetes,retiro en tienda
+82,81,263476.0,3,Rancagua,Mascotas,despacho
+83,23,55499.0,7,Santiago,Calzado,retiro en tienda
+84,32,202376.0,6,Valparaíso,,despacho
+85,74,144707.0,1,Rancagua,Alimentos,despacho
+86,10,174293.0,6,Viña del Mar,Calzado,retiro en tienda
+87,54,204337.0,5,Viña del Mar,Juguetes,despacho
+88,52,145894.0,2,Rancagua,Mascotas,despacho
+89,148,132700.0,7,Valparaíso,Juguetes,retiro en tienda
+90,114,182391.0,1,Rancagua,Calzado,retiro en tienda
+91,14,103893.0,4,Valparaíso,Calzado,retiro en tienda
+92,110,103992.0,7,Concepción,Mascotas,despacho
+93,53,227556.0,3,Rancagua,Juguetes,despacho
+94,79,99584.0,6,Valparaíso,,retiro en tienda
+95,22,226642.0,1,Rancagua,Juguetes,retiro en tienda
+96,30,212381.0,7,Rancagua,Calzado,despacho
+97,4,59194.0,6,Valparaíso,Juguetes,despacho
+98,59,132570.0,1,Valparaíso,Alimentos,despacho
+99,8,263588.0,5,Santiago,Electrodomésticos,despacho
+100,12,111318.0,7,Rancagua,Ropa,retiro en tienda
+101,119,147492.0,5,Viña del Mar,Alimentos,despacho
+102,34,212344.0,7,Rancagua,Ropa,despacho
+103,82,234837.0,5,Rancagua,Mascotas,despacho
+104,98,162392.0,6,Valparaíso,Ropa,despacho
+105,127,138174.0,4,Rancagua,Juguetes,retiro en tienda
+106,75,279566.0,7,Rancagua,Ropa,retiro en tienda
+107,105,301723.0,7,Viña del Mar,Calzado,despacho
+108,49,248520.0,5,Valparaíso,Alimentos,despacho
+109,79,185972.0,1,Rancagua,Alimentos,retiro en tienda
+110,93,,7,Concepción,Ropa,retiro en tienda
+111,18,121869.0,5,Santiago,Alimentos,despacho
+112,96,216576.0,2,Viña del Mar,Calzado,despacho
+113,38,209288.0,5,Rancagua,Alimentos,retiro en tienda
+114,87,278112.0,6,Concepción,Ropa,retiro en tienda
+115,88,225532.0,4,Rancagua,Electrodomésticos,retiro en tienda
+116,50,74784.0,2,Rancagua,Electrodomésticos,retiro en tienda
+117,8,,6,Valparaíso,Mascotas,retiro en tienda
+118,134,110136.0,6,Valparaíso,Alimentos,retiro en tienda
+119,69,153122.0,6,Valparaíso,Ropa,despacho
+120,121,,1,Concepción,Alimentos,retiro en tienda
+121,64,319697.0,6,Rancagua,Juguetes,retiro en tienda
+122,139,397694.0,1,Santiago,Calzado,retiro en tienda
+123,121,,6,Viña del Mar,Alimentos,retiro en tienda
+124,65,167176.0,3,Valparaíso,Alimentos,despacho
+125,107,217415.0,2,Valparaíso,Electrodomésticos,despacho
+126,147,242136.0,3,Rancagua,Calzado,retiro en tienda
+127,137,157553.0,6,Rancagua,Ropa,despacho
+128,100,305665.0,2,Concepción,,despacho
+129,82,196105.0,2,Concepción,Electrodomésticos,despacho
+130,143,214842.0,7,Valparaíso,Mascotas,despacho
+131,51,226615.0,4,Rancagua,Calzado,despacho
+132,141,209511.0,3,Santiago,Electrodomésticos,despacho
+133,83,238726.0,4,Viña del Mar,Electrodomésticos,retiro en tienda
+134,112,136792.0,2,Rancagua,Electrodomésticos,retiro en tienda
+135,56,140919.0,1,Rancagua,Alimentos,retiro en tienda
+136,145,102989.0,2,Concepción,Alimentos,retiro en tienda
+137,60,210765.0,4,Viña del Mar,Mascotas,retiro en tienda
+138,120,234526.0,3,Valparaíso,Juguetes,despacho
+139,138,212044.0,6,Rancagua,Juguetes,retiro en tienda
+140,23,297214.0,7,Valparaíso,Juguetes,retiro en tienda
+141,149,179608.0,7,Rancagua,Calzado,despacho
+142,13,226812.0,7,Valparaíso,Calzado,despacho
+143,101,103581.0,6,Viña del Mar,Mascotas,retiro en tienda
+144,24,152903.0,7,Concepción,Calzado,despacho
+145,108,,3,Viña del Mar,Juguetes,despacho
+146,11,239437.0,6,Santiago,Juguetes,despacho
+147,17,159422.0,7,Concepción,Electrodomésticos,despacho
+148,25,174988.0,6,Viña del Mar,Calzado,retiro en tienda
+149,94,73749.0,4,Santiago,Alimentos,despacho
+150,21,155008.0,3,Rancagua,Alimentos,retiro en tienda
+151,84,242327.0,5,Rancagua,Electrodomésticos,retiro en tienda
+152,140,220264.0,1,Valparaíso,Electrodomésticos,despacho
+153,37,215047.0,7,Concepción,Electrodomésticos,despacho
+154,42,183484.0,1,Rancagua,Alimentos,despacho
+155,145,180494.0,6,Concepción,Juguetes,retiro en tienda
+156,101,133778.0,1,Rancagua,Electrodomésticos,despacho
+157,48,,3,Valparaíso,Mascotas,despacho
+158,103,209468.0,3,Viña del Mar,Electrodomésticos,despacho
+159,28,214441.0,2,Valparaíso,Ropa,despacho
+160,41,143178.0,7,Santiago,Electrodomésticos,despacho
+161,99,29266.0,2,Rancagua,Alimentos,retiro en tienda
+162,47,256801.0,1,Santiago,,despacho
+163,146,146481.0,5,Santiago,Electrodomésticos,despacho
+164,105,119606.0,2,Concepción,,despacho
+165,124,228544.0,2,Rancagua,Ropa,retiro en tienda
+166,13,152559.0,3,Santiago,Mascotas,despacho
+167,141,254196.0,5,Viña del Mar,Calzado,retiro en tienda
+168,100,223190.0,6,Santiago,Juguetes,retiro en tienda
+169,31,,1,Viña del Mar,Electrodomésticos,despacho
+170,130,84383.0,2,Concepción,Ropa,despacho
+171,16,264836.0,5,Santiago,Ropa,despacho
+172,137,,7,Valparaíso,Calzado,retiro en tienda
+173,73,154151.0,5,Concepción,Mascotas,retiro en tienda
+174,54,190037.0,1,Viña del Mar,Alimentos,retiro en tienda
+175,100,55664.0,5,Concepción,Electrodomésticos,retiro en tienda
+176,109,208606.0,5,Santiago,Ropa,retiro en tienda
+177,87,107944.0,5,Rancagua,Mascotas,retiro en tienda
+178,137,85313.0,7,Rancagua,Juguetes,despacho
+179,8,73435.0,2,Viña del Mar,Ropa,despacho
+180,7,257888.0,1,Viña del Mar,Mascotas,retiro en tienda
+181,36,135952.0,7,Rancagua,Alimentos,despacho
+182,18,287361.0,5,Viña del Mar,Alimentos,despacho
+183,3,142494.0,5,Concepción,Ropa,retiro en tienda
+184,28,60485.0,2,Valparaíso,Ropa,retiro en tienda
+185,70,101843.0,1,Valparaíso,Calzado,despacho
+186,149,266507.0,3,Concepción,Electrodomésticos,retiro en tienda
+187,28,169087.0,7,Valparaíso,Mascotas,retiro en tienda
+188,54,141620.0,2,Santiago,Ropa,despacho
+189,65,191201.0,1,Concepción,Electrodomésticos,retiro en tienda
+190,100,215125.0,7,Viña del Mar,Calzado,despacho
+191,21,258218.0,5,Concepción,,despacho
+192,13,281395.0,1,Rancagua,Ropa,despacho
+193,57,,1,Viña del Mar,Alimentos,despacho
+194,49,87177.0,6,Rancagua,Mascotas,despacho
+195,118,151057.0,1,Viña del Mar,Mascotas,retiro en tienda
+196,54,198220.0,3,Valparaíso,,retiro en tienda
+197,138,112537.0,1,Concepción,Ropa,retiro en tienda
+198,53,,3,Santiago,Mascotas,retiro en tienda
+199,44,204065.0,5,Viña del Mar,Ropa,despacho
+200,47,176594.0,3,Viña del Mar,Calzado,despacho
+201,53,182296.0,7,Rancagua,Ropa,retiro en tienda
+202,74,126905.0,5,Valparaíso,Electrodomésticos,despacho
+203,46,163872.0,5,Rancagua,Alimentos,retiro en tienda
+204,13,115304.0,3,Rancagua,Ropa,retiro en tienda
+205,102,242314.0,2,Valparaíso,Calzado,retiro en tienda
+206,24,252467.0,4,Santiago,Juguetes,despacho
+207,2,50767.0,1,Rancagua,Alimentos,despacho
+208,81,114934.0,6,Rancagua,Mascotas,despacho
+209,100,75243.0,4,Viña del Mar,Electrodomésticos,despacho
+210,142,134498.0,1,Valparaíso,Mascotas,retiro en tienda
+211,138,174159.0,1,Concepción,Calzado,despacho
+212,131,78525.0,5,Santiago,Calzado,despacho
+213,111,115470.0,1,Santiago,Mascotas,despacho
+214,102,109723.0,6,Valparaíso,Alimentos,retiro en tienda
+215,17,194509.0,1,Viña del Mar,,retiro en tienda
+216,12,184854.0,3,Viña del Mar,Ropa,despacho
+217,116,129478.0,4,Valparaíso,Mascotas,despacho
+218,24,192377.0,3,Viña del Mar,Electrodomésticos,despacho
+219,29,141732.0,6,Santiago,Electrodomésticos,despacho
+220,122,160984.0,1,Santiago,Juguetes,retiro en tienda
+221,90,,7,Concepción,Electrodomésticos,despacho
+222,65,273832.0,6,Valparaíso,Mascotas,despacho
+223,84,89029.0,5,Rancagua,Electrodomésticos,despacho
+224,119,,3,Rancagua,Alimentos,retiro en tienda
+225,16,236798.0,3,Concepción,Electrodomésticos,retiro en tienda
+226,104,99622.0,2,Concepción,Ropa,despacho
+227,92,237314.0,1,Viña del Mar,Alimentos,despacho
+228,27,287655.0,5,Concepción,Juguetes,despacho
+229,134,101422.0,7,Concepción,Ropa,despacho
+230,135,115775.0,3,Rancagua,,despacho
+231,33,251236.0,3,Viña del Mar,,retiro en tienda
+232,55,199005.0,5,Concepción,Mascotas,retiro en tienda
+233,7,218603.0,6,Concepción,Ropa,retiro en tienda
+234,57,203841.0,6,Viña del Mar,Ropa,despacho
+235,126,207349.0,1,Valparaíso,Ropa,retiro en tienda
+236,12,87147.0,2,Viña del Mar,Alimentos,retiro en tienda
+237,16,253312.0,3,Rancagua,Calzado,retiro en tienda
+238,43,261871.0,2,Valparaíso,,despacho
+239,117,163943.0,6,Santiago,Mascotas,despacho
+240,135,176957.0,6,Viña del Mar,Calzado,retiro en tienda
+241,111,72822.0,4,Rancagua,Electrodomésticos,despacho
+242,51,215998.0,7,Valparaíso,Mascotas,retiro en tienda
+243,75,220044.0,1,Viña del Mar,Juguetes,retiro en tienda
+244,8,175647.0,4,Concepción,Alimentos,retiro en tienda
+245,45,258705.0,7,Viña del Mar,Ropa,retiro en tienda
+246,59,156615.0,4,Santiago,Alimentos,despacho
+247,132,219522.0,4,Viña del Mar,Ropa,despacho
+248,104,108623.0,1,Valparaíso,Calzado,despacho
+249,98,178351.0,1,Valparaíso,Juguetes,despacho
+250,79,167795.0,5,Viña del Mar,Calzado,retiro en tienda
+251,124,195772.0,2,Valparaíso,Juguetes,despacho
+252,4,154133.0,2,Concepción,,retiro en tienda
+253,90,170797.0,5,Viña del Mar,Ropa,despacho
+254,104,237823.0,5,Concepción,Calzado,despacho
+255,137,149427.0,6,Concepción,Juguetes,despacho
+256,119,67540.0,7,Rancagua,Mascotas,retiro en tienda
+257,133,302471.0,4,Viña del Mar,Mascotas,retiro en tienda
+258,56,276702.0,5,Valparaíso,Calzado,retiro en tienda
+259,96,89542.0,3,Concepción,Ropa,retiro en tienda
+260,75,228280.0,2,Rancagua,Calzado,despacho
+261,143,144792.0,5,Viña del Mar,Alimentos,retiro en tienda
+262,32,198444.0,3,Viña del Mar,Juguetes,retiro en tienda
+263,28,200596.0,3,Santiago,Alimentos,despacho
+264,22,163591.0,3,Santiago,Mascotas,despacho
+265,17,125136.0,6,Concepción,Juguetes,retiro en tienda
+266,59,131662.0,6,Santiago,Calzado,despacho
+267,90,115867.0,3,Concepción,Alimentos,retiro en tienda
+268,106,121772.0,7,Valparaíso,Electrodomésticos,despacho
+269,26,175298.0,6,Concepción,Ropa,retiro en tienda
+270,25,129897.0,4,Santiago,Ropa,retiro en tienda
+271,138,227744.0,3,Valparaíso,Electrodomésticos,retiro en tienda
+272,45,284107.0,4,Santiago,,retiro en tienda
+273,83,139396.0,4,Concepción,Juguetes,retiro en tienda
+274,11,196758.0,3,Rancagua,Ropa,despacho
+275,104,214978.0,2,Viña del Mar,Electrodomésticos,retiro en tienda
+276,68,213040.0,7,Santiago,Calzado,retiro en tienda
+277,95,185317.0,3,Concepción,Electrodomésticos,retiro en tienda
+278,65,231988.0,3,Valparaíso,Mascotas,retiro en tienda
+279,49,213757.0,6,Santiago,Mascotas,retiro en tienda
+280,52,93364.0,3,Santiago,Alimentos,despacho
+281,102,240841.0,2,Viña del Mar,Ropa,despacho
+282,57,242110.0,6,Concepción,Alimentos,retiro en tienda
+283,47,126570.0,1,Rancagua,Electrodomésticos,despacho
+284,26,182656.0,1,Valparaíso,Juguetes,retiro en tienda
+285,114,227833.0,4,Concepción,Juguetes,despacho
+286,5,165348.0,7,Valparaíso,Mascotas,despacho
+287,84,255108.0,4,Santiago,Juguetes,retiro en tienda
+288,52,345471.0,2,Viña del Mar,Juguetes,despacho
+289,105,124981.0,5,Viña del Mar,Juguetes,despacho
+290,54,83327.0,7,Rancagua,Electrodomésticos,retiro en tienda
+291,15,201267.0,1,Viña del Mar,Juguetes,retiro en tienda
+292,61,230509.0,4,Santiago,Calzado,despacho
+293,122,163839.0,1,Rancagua,Juguetes,despacho
+294,21,,2,Concepción,Juguetes,despacho
+295,46,,2,Viña del Mar,Alimentos,retiro en tienda
+296,134,228504.0,5,Rancagua,Electrodomésticos,despacho
+297,38,137590.0,5,Santiago,Mascotas,despacho
+298,62,300356.0,6,Valparaíso,Alimentos,despacho
+299,86,319476.0,7,Valparaíso,Ropa,retiro en tienda
+300,78,126334.0,2,Santiago,Electrodomésticos,retiro en tienda
